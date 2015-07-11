@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Crypto</string>
+
+    <string name="encrypt_message">Encrypt</string>
+    <string name="decrypt_message">Decrypt</string>
+    <string name="encrypted_message_result">Encrypted message result</string>
+    <string name="original_message">Your original message</string>
+    
+    <string name="msg_decrypted">Decrypted:</string>
+    <string name="msg_encrypted">Encrypted:</string>
+    
+</resources>
